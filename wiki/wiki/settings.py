@@ -92,4 +92,4 @@ TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
 
 FEED_FORMAT = 'csv' # сохраняем файл в формате csv
-FEED_URI = 'movies29.csv'
+FEED_URI = 'movies30.csv'
